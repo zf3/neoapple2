@@ -1,7 +1,7 @@
 
 # NeoApple2 - A Port of Apple2fpga to Xilinx Zynq
 
-[Feng Zhou](http://zhoufeng.net), 2021-7
+Feng Zhou, 2021-7
 
 EN | [中文](README.cn.md)
 
@@ -13,7 +13,6 @@ It runs on the PYNQ-Z1 FPGA board and emulates an Apple II Plus computer on the 
  * Sound output through the on-board 3.5mm mono line-out jack.
  * Switching between monochrome and color display modes.
  * Loading of floppy disk images through .nib files on MicroSD cards.
-
 
 ![My set-up](doc/setup.jpg)
 
@@ -74,8 +73,14 @@ Brief instructions for compiling from source.
    * `File -> New -> Platform Project` and name the project `neoapple2` and for "hardware specification", choose the `neoapple2.xsa` file generated above. Then press `Finish`.
    * `Project -> Build All` to build everything. If things went well, you will get the boot image at `neoapple2ui/neoapple2ui_system/Debug/sd_card/BOOT.BIN`.
 
-## More documentation
+## In-depth
 
 I wrote about the design and implementation of the system in the [technical report](doc/Porting_Apple2fpga.pdf).
 
-My homepage: http://www.zhoufeng.net
+Demo:
+
+[![Youtube video](https://img.youtube.com/vi/H2rrs8nJgQQ/0.jpg)](https://www.youtube.com/watch?v=H2rrs8nJgQQ)
+
+## Feedback
+
+Please leave your comments and feedback in [this issue](https://github.com/zf3/neoapple2/issues/1).
