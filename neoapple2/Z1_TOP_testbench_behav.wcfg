@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Z1_TOP_testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Z1_TOP_testbench" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="2163000001fs"></ZoomEndTime>
+      <Cursor1Time time="381501000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="271"></NameColumnWidth>
+      <ValueColumnWidth column_width="102"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="32" />
+   <wvobject fp_name="/Z1_TOP_testbench/CLK_64M" type="logic">
+      <obj_property name="ElementShortName">CLK_64M</obj_property>
+      <obj_property name="ObjectShortName">CLK_64M</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/CLK_28M" type="logic">
+      <obj_property name="ElementShortName">CLK_28M</obj_property>
+      <obj_property name="ObjectShortName">CLK_28M</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/CLK_14M" type="logic">
+      <obj_property name="ElementShortName">CLK_14M</obj_property>
+      <obj_property name="ObjectShortName">CLK_14M</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/CLK_2M" type="logic">
+      <obj_property name="ElementShortName">CLK_2M</obj_property>
+      <obj_property name="ObjectShortName">CLK_2M</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/PRE_PHASE_ZERO" type="logic">
+      <obj_property name="ElementShortName">PRE_PHASE_ZERO</obj_property>
+      <obj_property name="ObjectShortName">PRE_PHASE_ZERO</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/ADDR" type="array">
+      <obj_property name="ElementShortName">ADDR[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/D" type="array">
+      <obj_property name="ElementShortName">D[7:0]</obj_property>
+      <obj_property name="ObjectShortName">D[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/PD" type="array">
+      <obj_property name="ElementShortName">PD[7:0]</obj_property>
+      <obj_property name="ObjectShortName">PD[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/ram_we" type="logic">
+      <obj_property name="ElementShortName">ram_we</obj_property>
+      <obj_property name="ObjectShortName">ram_we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/ram/data_in" type="array">
+      <obj_property name="ElementShortName">data_in[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_in[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/ram/data_out" type="array">
+      <obj_property name="ElementShortName">data_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/RAM_ADDR" type="array">
+      <obj_property name="ElementShortName">RAM_ADDR[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RAM_ADDR[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/RAM_DO" type="array">
+      <obj_property name="ElementShortName">RAM_DO[7:0]</obj_property>
+      <obj_property name="ObjectShortName">RAM_DO[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/cpu_pc" type="array">
+      <obj_property name="ElementShortName">cpu_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">cpu_pc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/core/cpu/A" type="array">
+      <obj_property name="ElementShortName">A[7:0]</obj_property>
+      <obj_property name="ObjectShortName">A[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/core/cpu/X" type="array">
+      <obj_property name="ElementShortName">X[7:0]</obj_property>
+      <obj_property name="ObjectShortName">X[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/K" type="array">
+      <obj_property name="ElementShortName">K[7:0]</obj_property>
+      <obj_property name="ObjectShortName">K[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/core/cpu/Y" type="array">
+      <obj_property name="ElementShortName">Y[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Y[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/core/cpu/S" type="array">
+      <obj_property name="ElementShortName">S[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/core/roms/addr" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">addr[13:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[13:0]</obj_property>
+      <obj_property name="label">ROM.addr[13:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/core/roms/dout" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">dout[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dout[7:0]</obj_property>
+      <obj_property name="label">ROM.dout[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/core/video_display/VIDEO" type="logic">
+      <obj_property name="ElementShortName">VIDEO</obj_property>
+      <obj_property name="ObjectShortName">VIDEO</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/core/HBL" type="logic">
+      <obj_property name="ElementShortName">HBL</obj_property>
+      <obj_property name="ObjectShortName">HBL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/core/VBL" type="logic">
+      <obj_property name="ElementShortName">VBL</obj_property>
+      <obj_property name="ObjectShortName">VBL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/core/COLOR_LINE" type="logic">
+      <obj_property name="ElementShortName">COLOR_LINE</obj_property>
+      <obj_property name="ObjectShortName">COLOR_LINE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/core/video_display/LD194" type="logic">
+      <obj_property name="ElementShortName">LD194</obj_property>
+      <obj_property name="ObjectShortName">LD194</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/core/video_display/LDPS_N" type="logic">
+      <obj_property name="ElementShortName">LDPS_N</obj_property>
+      <obj_property name="ObjectShortName">LDPS_N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/core/VIDEO_ADDRESS" type="array">
+      <obj_property name="ElementShortName">VIDEO_ADDRESS[15:0]</obj_property>
+      <obj_property name="ObjectShortName">VIDEO_ADDRESS[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/vid_hsync" type="logic">
+      <obj_property name="ElementShortName">vid_hsync</obj_property>
+      <obj_property name="ObjectShortName">vid_hsync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/vid_vsync" type="logic">
+      <obj_property name="ElementShortName">vid_vsync</obj_property>
+      <obj_property name="ObjectShortName">vid_vsync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Z1_TOP_testbench/UUT/vid_vde" type="logic">
+      <obj_property name="ElementShortName">vid_vde</obj_property>
+      <obj_property name="ObjectShortName">vid_vde</obj_property>
+   </wvobject>
+</wave_config>

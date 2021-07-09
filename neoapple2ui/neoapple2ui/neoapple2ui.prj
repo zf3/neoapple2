@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="neoapple2ui" location="D:/Work/FPGA/rtl-toys/neoapple2ui/neoapple2ui" platform="D:/Work/FPGA/rtl-toys/neoapple2ui/neoapple2/export/neoapple2/neoapple2.xpfm" platformUID="xilinx:pynq-z1::0.0(custom)" systemProject="neoapple2ui_system" sysConfig="neoapple2" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="171a6ac3148becbe383393f8f5543528">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1519445300">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1645188900" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
