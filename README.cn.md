@@ -1,7 +1,7 @@
 
 # NeoApple2 - Apple2fpga的Xilinx Zynq移植版
 
-[Feng Zhou](http://zhoufeng.net), 2021-7
+Feng Zhou, 2021-7
 
 [EN](README.md) | 中文
 
@@ -79,4 +79,10 @@ BRUN
 
 系统的设计与实现请看[技术报告](doc/Porting_Apple2fpga.pdf)（英文）。
 
-我的主页：http://www.zhoufeng.net
+视频演示：
+
+[![Youtube video](https://img.youtube.com/vi/H2rrs8nJgQQ/0.jpg)](https://www.youtube.com/watch?v=H2rrs8nJgQQ)
+
+## 留言
+
+请在[这里](https://github.com/zf3/neoapple2/issues/1)留言.
