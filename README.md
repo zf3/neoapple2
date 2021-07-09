@@ -77,10 +77,10 @@ Brief instructions for compiling from source.
 
 I wrote about the design and implementation of the system in the [technical report](doc/Porting_Apple2fpga.pdf).
 
-Demo:
+Video demo:
 
 [![Youtube video](https://img.youtube.com/vi/H2rrs8nJgQQ/0.jpg)](https://www.youtube.com/watch?v=H2rrs8nJgQQ)
 
 ## Feedback
 
-Please leave your comments and feedback in [this issue](https://github.com/zf3/neoapple2/issues/1).
+Please leave your comments and feedback in [here](https://github.com/zf3/neoapple2/issues/1).
