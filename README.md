@@ -18,7 +18,7 @@ It runs on the PYNQ-Z1 FPGA board and emulates an Apple II Plus computer on the 
 
 ## Set up hardware and run the binary package
 
-If you download the binary package. There is a BOOT.BIN file inside it. This includes everything you need in terms of software. Before
+Easy way to get started is to [download the binary package](http://zhoufeng.net/neoapple2/). There is a BOOT.BIN file inside it. This includes everything you need in terms of software. Before
 you can run that, however, you need the following hardware parts,
 
  * A [PYNQ-Z1](https://store.digilentinc.com/pynq-z1-python-productivity-for-zynq-7000-arm-fpga-soc/) FPGA board.
