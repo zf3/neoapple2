@@ -19,7 +19,7 @@ Feng Zhou, 2021-7
 
 ## 运行二进制包
 
-你下载的二进制包里有一个BOOT.BIN文件，这已经包括运行NeoApple2所需的所有内容了。但运行前，需要集齐以下硬件：
+你可以[下载二进制包](http://zhoufeng.net/neoapple2/)来运行，你下载的二进制包里有一个BOOT.BIN文件，这已经包括运行NeoApple2所需的所有内容了。但运行前，需要集齐以下硬件：
 
 * [PYNQ-Z1](https://store.digilentinc.com/pynq-z1-python-productivity-for-zynq-7000-arm-fpga-soc/) FPGA板（淘宝上有）。
 * [Pmod PS2](https://store.digilentinc.com/pmod-ps2-keyboard-mouse-connector/)连接键盘的适配器板（这个可能不好买，但自己用PS/2插座焊一个很容易）。
