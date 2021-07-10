@@ -1,5 +1,6 @@
 
-# NeoApple2 - A Port of Apple2fpga to Xilinx Zynq
+# Apple II Plus Emulation on PYNQ-Z1
+## NeoApple2 - A Port of Apple2fpga to Xilinx Zynq
 
 Feng Zhou, 2021-7
 
