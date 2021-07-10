@@ -83,4 +83,4 @@ Video demo:
 
 ## Feedback
 
-Please leave your comments and feedback in [here](https://github.com/zf3/neoapple2/issues/1).
+Please leave your comments and feedback [here](https://github.com/zf3/neoapple2/issues/1).
